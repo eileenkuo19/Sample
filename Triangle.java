@@ -2,7 +2,8 @@
 public class Triangle
 { // test
 
-	private int price;
+	private int promo_price;
+
 
 	public static String determineTriangleV1 (int a, int b, int c)
 	{
